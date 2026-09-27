@@ -3,9 +3,14 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ page.description }}">
+    <meta name="description" content="{{ page.description | escape }}">
     <meta name="author" content="Dominic Byrd-McDevitt">
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | escape }}</title>
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
+    <meta property="og:url" content="https://dominic.byrd-mcdevitt.com{{ page.url | replace: 'index.html', '' }}">
+    <meta property="og:image" content="https://dominic.byrd-mcdevitt.com/images/wikimania.jpg">
     <link rel="icon" href="/d.png">
     <link href="/css/bootstrap.min.css" rel="stylesheet">
     <link href="/css/site.css" rel="stylesheet">

@@ -1,12 +1,4 @@
-
-citizen-archivist.html
-
-oldindex.html
-
-OPA_API.html
-
-search-and-export.html
-
-search-and-export.html
-
-search-and-export.html
+_site/
+.jekyll-cache/
+.sass-cache/
+.DS_Store

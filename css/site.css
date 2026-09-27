@@ -52,7 +52,7 @@ body {
 .marketing {
   padding-top: 3.5rem;
 }
-.marketing .col-lg-4 {
+.marketing [class*="col-"] {
   margin-bottom: 1.5rem;
   text-align: center;
 }
@@ -84,4 +84,13 @@ body {
 footer {
   margin-top: 3rem;
   padding: 1.5rem 0 2.5rem;
+}
+
+/* On phones, crop the page photo so the text starts on the first screen */
+@media (max-width: 767.98px) {
+  .featurette-photo {
+    width: 100%;
+    max-height: 14rem;
+    object-fit: cover;
+  }
 }
