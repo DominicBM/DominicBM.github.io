@@ -1,86 +1,61 @@
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <link rel="shortcut icon" href="d.png">
-
+    <meta name="description" content="Page not found">
+    <meta name="author" content="Dominic Byrd-McDevitt">
     <title>Page not found!</title>
-
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/carousel.css" rel="stylesheet">
+    <link rel="icon" href="/d.png">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/site.css" rel="stylesheet">
   </head>
-<!-- NAVBAR
-================================================== -->
   <body>
-    <div class="navbar-wrapper">
+    <header class="site-nav">
       <div class="container">
-
-        <div class="navbar navbar-inverse navbar-static-top" role="navigation">
-          <div class="container">
-            <div class="navbar-header">
-              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-              <a class="navbar-brand" href="index.html">Dominic</a>
-            </div>
-            <div class="navbar-collapse collapse">
-              <ul class="nav navbar-nav">
-                <li><a href="writings.html">Writings</a></li>
-                <li><a href="https://www.linkedin.com/in/dominicbyrdmcdevitt/">Resume</a></li>
-                <li><a href="contact.html">Contact</a></li>
-                <li class="dropdown">
-                  <a href="#" class="dropdown-toggle" data-toggle="dropdown">Related<b class="caret"></b></a>
-                  <ul class="dropdown-menu">
-                    <li class="dropdown-header">Related projects</li>
-                    <li><a href="https://dp.la/">Digital Public Library of America</a></li>
-                    <li><a href="https://www.archives.gov/citizen-archivist">Citizen Archivist</a></li>
-                    <li><a href="https://en.wikipedia.org/wiki/Wikipedia:GLAM/US/Consortium">GLAM-Wiki U.S. Consortium</a></li>
-                    <li><a href="https://wikimediadc.org">Wikimedia D.C.</a></li><!--
-                    <li class="divider"></li>
-                    <li class="dropdown-header">External links</li>
-                    <li><a href="#">Separated link</a></li>
-                    <li><a href="#">One more separated link</a></li>-->
-                  </ul>
-                </li>
-              </ul>
-            </div>
+        <nav class="navbar navbar-expand-md navbar-dark bg-dark px-3">
+          <a class="navbar-brand" href="/index.html">Dominic</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#site-navbar" aria-controls="site-navbar" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="site-navbar">
+            <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link" href="/writings.html">Writings</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://www.linkedin.com/in/dominicbyrdmcdevitt/">Resume</a></li>
+            <li class="nav-item"><a class="nav-link" href="/contact.html">Contact</a></li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Related</a>
+                <ul class="dropdown-menu">
+                  <li><h6 class="dropdown-header">Related projects</h6></li>
+                  <li><a class="dropdown-item" href="https://dp.la/">Digital Public Library of America</a></li>
+                  <li><a class="dropdown-item" href="https://www.archives.gov/citizen-archivist">Citizen Archivist</a></li>
+                  <li><a class="dropdown-item" href="https://en.wikipedia.org/wiki/Wikipedia:GLAM/US/Consortium">GLAM-Wiki U.S. Consortium</a></li>
+                  <li><a class="dropdown-item" href="https://wikimediadc.org">Wikimedia D.C.</a></li>
+                </ul>
+              </li>
+            </ul>
           </div>
-        </div>
-
+        </nav>
       </div>
-    </div>
+    </header>
 
-      <hr class="featurette-divider">
-
-      <div class="row featurette">
-        <div class="col-md-5" style="padding-left:165px;">
-          <img class="featurette-image img-responsive" src="Dominic 404.jpg" alt="Generic placeholder image" width="500">
-        </div>
+    <main class="container featurette">
+      <div class="row g-4 g-lg-5 align-items-start">
         <div class="col-md-5">
-          <h2 class="featurette-heading">Page not found! <span class="text-muted">Error 404.</span></h2>
+          <img class="img-fluid rounded" src="/Dominic 404.jpg" alt="Dominic looking surprised">
+        </div>
+        <div class="col-md-7">
+          <h1 class="featurette-heading">Page not found! <span class="text-body-secondary">Error 404.</span></h1>
           <p class="lead">Oops! How'd you get here?</p>
         </div>
       </div>
+    </main>
 
-      <!-- /END THE FEATURETTES -->
+    <footer class="container d-flex justify-content-between align-items-center">
+      <a rel="license" href="https://creativecommons.org/publicdomain/zero/1.0/"><img src="https://i.creativecommons.org/p/zero/1.0/80x15.png" alt="CC0" width="80" height="15"></a>
+      <a href="#">Back to top</a>
+    </footer>
 
-
-
-    </div><!-- /.container -->
-
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>

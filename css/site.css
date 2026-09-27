@@ -1,0 +1,87 @@
+/* Site styles layered on Bootstrap 5 */
+
+body {
+  color: #5a5a5a;
+}
+
+/* Navbar floats over the hero on the home page and sits at the top elsewhere */
+.site-nav {
+  padding-top: 1rem;
+}
+.site-nav .navbar {
+  border-radius: .375rem;
+}
+.home .site-nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 10;
+}
+
+/* Home page hero */
+.hero {
+  position: relative;
+  display: flex;
+  align-items: center;
+  min-height: 500px;
+  padding: 7rem 0 3rem;
+  color: #fff;
+  text-align: center;
+  background: #777 url("https://upload.wikimedia.org/wikipedia/commons/1/1e/GLAMcamp_DC_2012_-_035.jpg") center / cover no-repeat;
+}
+.hero::before {
+  position: absolute;
+  inset: 0;
+  content: "";
+  background: rgba(90, 90, 90, .6);
+}
+.hero .container {
+  position: relative;
+  max-width: 50rem;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
+}
+.hero p {
+  font-size: 1.3rem;
+}
+.hero a:not(.btn) {
+  color: #fff;
+}
+
+/* Three-column intro on the home page */
+.marketing {
+  padding-top: 3.5rem;
+}
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing img {
+  object-fit: cover;
+}
+
+/* Photo-and-text layout on inner pages */
+.featurette {
+  padding-top: 3rem;
+}
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -1px;
+}
+.featurette dd {
+  margin-bottom: .75rem;
+}
+@media (min-width: 768px) {
+  .featurette-heading {
+    font-size: 3rem;
+  }
+}
+
+footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0 2.5rem;
+}
