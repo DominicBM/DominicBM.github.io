@@ -14,6 +14,11 @@
           venue: Information Technology and Libraries 41, no. 1
           date: March 2022
           note: With John Dewees.
+        - title: "Why #CongressEdits Matters for Your Agency"
+          url: https://web.archive.org/web/20180116142429/https://www.digitalgov.gov/2014/07/30/why-congressedits-matters-for-your-agency/
+          venue: DigitalGov, U.S. General Services Administration
+          date: July 30, 2014
+          note: Archived copy.
         - title: "Historians in Wikipedia: Building an Open, Collaborative History"
           url: https://www.historians.org/perspectives-article/historians-in-wikipedia-building-an-open-collaborative-history-december-2012/
           venue: Perspectives on History, American Historical Association
@@ -279,7 +284,7 @@
         - title: Partnerships between Wikipedia and the National Archives
           url: https://trevorowens.org/2013/12/27/2013-year-in-review/
           venue: Digital Cultural Heritage DC (DCHDC) meetup, Washington, D.C.
-          date: 2013
+          date: "2013"
         - title: "Wikimedia Tech Workshop: Bridging the Gap"
           url: https://mcn.edu/wp-content/uploads/2020/02/MCN2012_Program-2012_v25_23OCT.pdf
           venue: Museum Computer Network (MCN) 2012, Seattle
@@ -425,7 +430,7 @@
         - title: What Are Galleries, Libraries, Archives, and Museums (GLAM) to the Wikimedia Community?
           url: https://www.oclc.org/content/dam/research/publications/2018/Proffitt_LeavergingWikipedia.pdf
           venue: "Leveraging Wikipedia: Connecting Communities of Knowledge, ed. Merrilee Proffitt (ALA Editions)"
-          date: 2018
+          date: "2018"
           note: Andrew Lih, pp. 13–14.
         - title: Wikipedia
           url: https://www.cbsnews.com/news/wikipedia-jimmy-wales-morley-safer-60-minutes/
@@ -437,6 +442,18 @@
           venue: FedScoop
           date: January 10, 2015
           note: Billy Mitchell.
+        - title: Crowdsourcing to Preserve Our Nation’s History
+          url: https://datasmart.hks.harvard.edu/news/article/crowdsourcing-preserve-our-nations-history-553
+          venue: Data-Smart City Solutions, Harvard Kennedy School
+          date: October 28, 2014
+        - title: Is Anyone at Your Agency Editing Wikipedia?
+          url: https://www.nextgov.com/emerging-tech/2014/07/anyone-your-agency-editing-wikipedia/90173/
+          venue: Nextgov
+          date: July 31, 2014
+        - title: The National Archives Wants to Put Its Whole Collection on Wikimedia Commons
+          url: https://www.smithsonianmag.com/smart-news/national-archives-wants-put-everything-wikimedia-commons-180951952/
+          venue: Smithsonian Magazine
+          date: July 3, 2014
         - title: US National Archives To Upload All Holdings To Wikimedia Commons
           url: https://techcrunch.com/2014/06/30/us-national-archives-to-upload-all-holdings-to-wikimedia-commons/
           venue: TechCrunch
@@ -445,6 +462,10 @@
           url: https://www.washingtonexaminer.com/news/1300698/feds-collaborate-with-wikipedia-editors-to-improve-wikipedia-entries-related-to-government-publications/
           venue: Washington Examiner
           date: June 3, 2014
+        - title: NARA/OFR Wikipedia Editathon
+          url: https://www.federalregister.gov/reader-aids/office-of-the-federal-register-announcements/2014/05/naraofr-wikipedia-editathon
+          venue: Office of the Federal Register
+          date: May 2014
         - title: Warming Up to the Culture of Wikipedia
           url: https://www.nytimes.com/2014/03/20/arts/artsspecial/warming-up-to-the-culture-of-wikipedia.html
           venue: The New York Times
@@ -464,6 +485,11 @@
           venue: AOTUS, the blog of the Archivist of the United States
           date: September 19, 2013
           note: David S. Ferriero.
+        - title: The Great American Wiknic [edit]
+          url: https://www.wwno.org/2013-07-18/the-great-american-wiknic-edit
+          venue: NPR, via WWNO
+          date: July 18, 2013
+          note: Hannah Meisel.
         - title: "News and notes: GLAM boot camp"
           url: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2013-04-29/News_and_notes
           venue: The Wikipedia Signpost
@@ -500,6 +526,11 @@
           url: https://siarchives.si.edu/blog/location-location-location
           venue: Smithsonian Institution Archives blog
           date: July 6, 2011
+        - title: A Wiki-Picnic for online encyclopedia editors
+          url: https://www.washingtonpost.com/lifestyle/style/a-wiki-picnic-for-online-encyclopedia-editors/2011/06/24/AGUxQYjH_story.html
+          venue: The Washington Post
+          date: June 24, 2011
+          note: Monica Hesse.
         - title: How Wikipedians-in-Residence Are Opening Up Cultural Institutions
           url: https://www.theatlantic.com/technology/archive/2011/06/how-wikipedians-in-residence-are-opening-up-cultural-institutions/240204/
           venue: The Atlantic
