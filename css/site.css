@@ -94,3 +94,37 @@ footer {
     object-fit: cover;
   }
 }
+
+/* Writings page */
+.writings-toc a {
+  white-space: nowrap;
+}
+.writings-section {
+  margin-bottom: 2.5rem;
+  scroll-margin-top: 1rem;
+}
+.writings-section h2 {
+  font-size: 1.6rem;
+  font-weight: 400;
+  padding-bottom: .4rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--bs-border-color);
+}
+.writings-section h3 {
+  font-size: 1.1rem;
+  margin: 1.5rem 0 .75rem;
+}
+.writings-list li {
+  margin-bottom: .85rem;
+}
+.writings-meta {
+  display: block;
+  font-size: .925rem;
+}
+/* Keep the photo in view while the long list scrolls on larger screens */
+@media (min-width: 768px) {
+  .writings-photo {
+    position: sticky;
+    top: 1rem;
+  }
+}

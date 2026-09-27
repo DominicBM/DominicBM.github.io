@@ -1,0 +1,245 @@
+# Entries for writings.html, newest first within each group.
+# Fields: title, url (optional), venue, date, note (optional, e.g. co-author or byline).
+
+- heading: Articles and essays
+  groups:
+    - items:
+        - title: We should all pay attention to what is happening at the National Archives
+          url: https://www.linkedin.com/pulse/we-should-all-pay-attention-what-happening-national-byrd-mcdevitt-vkvfc
+          venue: LinkedIn
+          date: February 9, 2025
+          note: Republished by EveryLibrary Action and quoted in Information Today.
+        - title: Using DPLA and the Wikimedia Foundation to Increase Usage of Digitized Resources
+          url: https://doi.org/10.6017/ital.v41i1.13659
+          venue: Information Technology and Libraries 41, no. 1
+          date: March 2022
+          note: With John Dewees.
+        - title: "Historians in Wikipedia: Building an Open, Collaborative History"
+          url: https://www.historians.org/perspectives-article/historians-in-wikipedia-building-an-open-collaborative-history-december-2012/
+          venue: Perspectives on History, American Historical Association
+          date: December 2012
+          note: With Lori Byrd Phillips.
+
+- heading: Blog posts
+  groups:
+    - heading: Digital Public Library of America
+      items:
+        - title: Site Performance Updates and Adapting to New Web Threats
+          url: https://dp.la/news/site-performance-updates-and-adapting-to-new-web-threats
+          date: June 10, 2026
+        - title: The Digital Asset Management Systems Survey Report
+          url: https://dp.la/news/the-digital-asset-management-systems-survey-report
+          date: April 29, 2026
+        - title: Rebuilding the DPLA Analytics Dashboard
+          url: https://dp.la/news/rebuilding-the-dpla-analytics-dashboard
+          date: April 1, 2026
+        - title: Expanding Access at Scale Through DPLA's Wikimedia Partnership
+          url: https://dp.la/news/expanding-access-at-scale-through-dplas-wikimedia-partnership
+          date: December 16, 2025
+        - title: Safeguarding Collections Using the Decentralized Web
+          url: https://dp.la/news/safeguarding-collections-using-the-decentralized-web
+          date: August 27, 2025
+        - title: Learn how to work with Wikipedia in a new workshop series from DPLA
+          url: https://dp.la/news/learn-how-to-work-with-wikipedia-in-a-new-workshop-series-from-dpla
+          date: July 29, 2025
+        - title: Open Call to Host DPLAfest 2025
+          url: https://dp.la/news/open-call-to-host-dplafest-2025
+          date: February 4, 2025
+        - title: An Update on the Future of Our Cultural Heritage Work
+          url: https://dp.la/news/an-update-on-the-future-of-our-cultural-heritage-work
+          date: October 31, 2024
+        - title: DPLA Outreach & Assessment Working Group launches assessment workshop series this summer
+          url: https://dp.la/news/dpla-outreach-assessment-working-group-launches-assessment-workshop-series-this-summer
+          date: May 21, 2024
+        - title: "Practical Approaches to Reparative Description: A Workshop Series with Wide Appeal"
+          url: https://dp.la/news/practical-approaches-to-reparative-description-a-workshop-series-with-wide-appeal
+          date: May 20, 2024
+        - title: One Step Closer to a New Home for America's Digital Heritage
+          url: https://dp.la/news/one-step-closer-to-a-new-home-for-americas-digital-heritage
+          date: May 2, 2024
+        - title: Recent board meeting and new Network office hours
+          url: https://dp.la/news/recent-board-meeting-and-new-network-office-hours
+          date: April 19, 2024
+        - title: Applications open to find a new home for America's digital heritage
+          url: https://dp.la/news/applications-open-now-a-new-home-for-americas-digital-heritage
+          date: April 3, 2024
+        - title: "My first eight weeks: A warm welcome and lots of events"
+          url: https://dp.la/news/my-first-eight-weeks-a-warm-welcome-and-lots-of-events
+          date: December 7, 2023
+        - title: Service update on the Analytics Dashboard
+          url: https://dp.la/news/service-update-on-the-analytics-dashboard
+          date: December 5, 2023
+        - title: "Culture Heritage and Structured Data: How DPLA became the biggest institution to contribute to Structured Data on Commons"
+          url: https://dp.la/news/culture-heritage-and-structured-data-how-dpla-became-the-biggest-institution-to-contribute-to-structured-data-on-commons
+          date: September 12, 2023
+          note: Also published on the Wikimedia Foundation's <a href="https://diff.wikimedia.org/2023/09/07/culture-heritage-and-structured-data-how-dpla-became-the-biggest-institution-to-contribute-to-structured-data-on-commons/">Diff</a> blog.
+        - title: DPLA expands Wikimedia work
+          url: https://dp.la/news/dpla-expands-wikimedia-work
+          date: September 28, 2022
+        - title: Wikimedia Project update
+          url: https://dp.la/news/wikimedia-project-update
+          date: May 19, 2022
+        - title: DPLA presents "Rights Statements 101" webinar
+          url: https://medium.com/open-glam/dpla-presents-rights-statements-101-webinar-a84dcc590a4e
+          venue: Open GLAM on Medium
+          date: September 14, 2020
+    - heading: National Archives
+      items:
+        - title: "A Call to Action for Scholars of American History: Contribute to Wikipedia"
+          url: https://aotus.blogs.archives.gov/2018/08/21/a-call-to-action-for-scholars-of-american-history-contribute-to-wikipedia/
+          venue: AOTUS, the blog of the Archivist of the United States
+          date: August 21, 2018
+          note: Guest post.
+        - title: National Archives program trains Wikipedians in cultural heritage outreach
+          url: https://narations.blogs.archives.gov/2016/07/18/national-archives-program-trains-wikipedians-in-cultural-heritage-outreach/
+          venue: NARAtions
+          date: July 18, 2016
+        - title: The new read–write API for our catalog
+          url: https://narations.blogs.archives.gov/2016/04/25/the-new-read-write-api-for-our-catalog/
+          venue: NARAtions
+          date: April 25, 2016
+        - title: Special Report from WikiConference USA at NARA
+          url: https://narations.blogs.archives.gov/2015/10/15/special-report-from-wikiconference-usa-at-nara/
+          venue: NARAtions
+          date: October 15, 2015
+        - title: "Wikimedia Deutschland visits Washington: Our role in the Wikimedia community"
+          url: https://web.archive.org/web/20140802034633/http://blogs.archives.gov/innovation/2014/01/13/wikimedia-deutschland-visits-washington-our-role-in-the-wikimedia-community/
+          venue: Inside Innovation
+          date: January 13, 2014
+          note: Archived copy.
+        - title: Innovation Hub launches with Wikimedia D.C. Annual Meeting
+          venue: Inside Innovation
+          date: January 2, 2014
+          note: No longer online.
+        - title: How does NARA avoid conflicts of interest on Wikipedia?
+          url: https://narations.blogs.archives.gov/2012/09/27/how-does-nara-avoid-conflicts-of-interest-on-wikipedia/
+          venue: NARAtions
+          date: September 27, 2012
+        - title: The National Archives is an official Wikimaniac
+          url: https://narations.blogs.archives.gov/2012/07/10/the-national-archives-is-an-official-wikimaniac/
+          venue: NARAtions
+          date: July 10, 2012
+        - title: National Archives at Kansas City hosts Wikipedians
+          url: https://narations.blogs.archives.gov/2012/06/25/national-archives-at-kansas-city-hosts-wikipedians/
+          venue: NARAtions
+          date: June 25, 2012
+        - title: NARA plays host for Wikipedians at GLAMcamp DC
+          url: https://narations.blogs.archives.gov/2012/02/27/nara-plays-host-for-wikipedians-at-glamcamp-dc/
+          venue: NARAtions
+          date: February 27, 2012
+        - title: Yes, Wikipedians Scan
+          url: https://narations.blogs.archives.gov/2012/02/01/yes-wikipedians-scan/
+          venue: NARAtions
+          date: February 1, 2012
+        - title: Online catalog now links to Wikimedia resources
+          url: https://narations.blogs.archives.gov/2011/08/31/online-catalog-now-links-to-wikimedia-resources/
+          venue: NARAtions
+          date: August 31, 2011
+        - title: Wikipedia Backstage Pass Tour and Scanathon
+          url: https://narations.blogs.archives.gov/2011/08/24/wikipedia-backstage-pass-tour-and-scanathon/
+          venue: NARAtions
+          date: August 24, 2011
+        - title: Wikimedia and the new collaborative digital archives
+          url: https://text-message.blogs.archives.gov/2011/07/25/wikimedia-and-the-new-collaborative-digital-archives/
+          venue: The Text Message
+          date: July 25, 2011
+
+- heading: Interviews and podcasts
+  groups:
+    - items:
+        - title: "The Wikipedia Story, Ep. 1: Don't Bite The Newbies"
+          url: https://podcasts.apple.com/us/podcast/wikipedia-ep-1-dont-bite-the-newbies/id1589936008?i=1000539007722
+          venue: "dot com: The Hacking (podcast), Crowd Network"
+          date: October 2021
+          note: Also appears in Ep. 2, "Hello World."
+        - title: Wikinews interviews US National Archives Wikipedian in Residence
+          url: https://en.wikinews.org/wiki/Wikinews_interviews_US_National_Archives_Wikipedian_in_Residence
+          venue: Wikinews
+          date: June 30, 2011
+        - title: "Conversations: Dominic McDevitt-Parks, National Archives connects with Wikipedia"
+          url: https://www.washingtonpost.com/local/politics/conversations-dominic-mcdevitt-parks-national-archives-connects-with-wikipedia/2011/06/02/AGCYDWHH_story.html
+          venue: The Washington Post
+          date: June 2, 2011
+          note: Lisa Rein.
+        - title: "Meet Our Wikipedian in Residence: Dominic McDevitt-Parks"
+          url: https://narations.blogs.archives.gov/2011/06/01/meet-our-wikipedian-in-residence-dominic-mcdevitt-parks/
+          venue: NARAtions
+          date: June 1, 2011
+
+- heading: Press coverage
+  groups:
+    - items:
+        - title: DPLA's Dominic Byrd-McDevitt Explains the Role of the National Archives in the Federal Government
+          url: https://newsbreaks.infotoday.com/Digest/DPLAs-Dominic-ByrdMcDevitt-Explains-the-Role-of-the-National-Archives-in-the-Federal-Government-167946.asp
+          venue: Information Today NewsBreaks
+          date: February 11, 2025
+        - title: DPLA to Expand Collaboration with Wikimedia Following Sloan Foundation Grant
+          url: https://www.libraryjournal.com/story/dpla-to-expand-collaboration-with-wikimedia-following-sloan-foundation-grant
+          venue: Library Journal
+          date: January 19, 2023
+          note: Matt Enis.
+        - title: National Archives holdings headed for Wikimedia Commons
+          url: https://fedscoop.com/national-archives-plans-mass-upload-wikimedia-commons/
+          venue: FedScoop
+          date: January 10, 2015
+          note: Billy Mitchell.
+        - title: Warming Up to the Culture of Wikipedia
+          url: https://www.nytimes.com/2014/03/20/arts/artsspecial/warming-up-to-the-culture-of-wikipedia.html
+          venue: The New York Times
+          date: March 19, 2014
+          note: Noam Cohen.
+        - title: Breaking New Ground Again
+          url: https://aotus.blogs.archives.gov/2013/09/19/breaking-new-ground-again/
+          venue: AOTUS, the blog of the Archivist of the United States
+          date: September 19, 2013
+          note: David S. Ferriero.
+        - title: "News and notes: GLAM boot camp"
+          url: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2013-04-29/News_and_notes
+          venue: The Wikipedia Signpost
+          date: April 29, 2013
+        - title: Feds Embrace 'Nerds of the Internet'
+          url: https://www.nextgov.com/emerging-tech/2012/09/feds-embrace-nerds-internet/57924/
+          venue: Nextgov
+          date: September 6, 2012
+          note: Eric Katz.
+        - title: Wikimania, world Wikipedia conference, draws free information fans from 87 countries
+          url: https://theworld.org/stories/2012/07/16/wikimania-world-wikipedia-conference-draws-free-information-fans-87-countries
+          venue: GlobalPost
+          date: July 16, 2012
+          note: Faine Greenwood.
+        - title: NARA, Wikipedia, and the Day of Infamy
+          url: https://prologue.blogs.archives.gov/2012/01/20/nara-wikipedia-and-the-day-of-infamy/
+          venue: Pieces of History, a blog of the National Archives
+          date: January 20, 2012
+        - title: "National Archives hires 'Wikipedian in residence': Partnership formed in an effort to publicize information"
+          url: https://www.baltimoresun.com/maryland/bs-md-wikipedia-archives-20110621-story.html
+          venue: The Baltimore Sun
+          date: July 13, 2011
+          note: Julie Baughman.
+        - title: How Wikipedians-in-Residence Are Opening Up Cultural Institutions
+          url: https://www.theatlantic.com/technology/archive/2011/06/how-wikipedians-in-residence-are-opening-up-cultural-institutions/240204/
+          venue: The Atlantic
+          date: June 16, 2011
+          note: Jared Keller.
+        - title: National Archives Hires 'Wikipedian In Residence'
+          url: https://www.techdirt.com/2011/06/10/national-archives-hires-wikipedian-residence/
+          venue: Techdirt
+          date: June 10, 2011
+          note: Mike Masnick.
+        - title: National Archives Hires "Wikipedian in Residence"
+          url: https://www.nbcwashington.com/local/national-archives-hires-wikipedian-in-residence/1894387/
+          venue: NBC4 Washington (Associated Press)
+          date: June 2, 2011
+          note: Brett Zongker.
+        - title: National Archives announces First "Wikipedian in Residence"
+          url: https://www.archives.gov/press/press-releases/2011-41
+          venue: National Archives press release
+          date: June 1, 2011
+        - title: "News and notes: Wikipedian in Residence at US National Archives"
+          url: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2011-05-02/News_and_notes
+          venue: The Wikipedia Signpost
+          date: May 2, 2011
+        - title: "National Archives' First Wikipedian in Residence: This article is a stub."
+          url: https://narations.blogs.archives.gov/2011/04/27/this-article-is-a-stub/
+          venue: NARAtions
+          date: April 27, 2011
