@@ -83,6 +83,18 @@
           url: https://medium.com/open-glam/dpla-presents-rights-statements-101-webinar-a84dcc590a4e
           venue: Open GLAM on Medium
           date: September 14, 2020
+    - heading: Wikimedia Foundation blog (now Diff)
+      items:
+        - title: US National Archives turns to Wikimedia to help release new JFK assassination discovery
+          url: https://diff.wikimedia.org/2012/01/30/us-national-archives-wikimedia-release-jfk-assassination-discovery/
+          date: January 30, 2012
+        - title: Bringing Ansel Adams to Wikimedia Commons
+          url: https://diff.wikimedia.org/2011/06/28/bringing-ansel-adams-to-wikimedia-commons/
+          date: June 28, 2011
+        - title: Christina Aguilera Did Not Get the Lyrics for the National Anthem from Wikipedia; or, a Guide to Wikipedia's Page Histories
+          url: https://diff.wikimedia.org/2011/04/05/christina-aguilera-did-not-get-the-lyrics-for-the-national-anthem-from-wikipedia-or-a-guide-to-wikipedias-page-histories/
+          date: April 5, 2011
+          note: With PJ Tabit.
     - heading: National Archives
       items:
         - title: "A Call to Action for Scholars of American History: Contribute to Wikipedia"
@@ -144,6 +156,229 @@
           venue: The Text Message
           date: July 25, 2011
 
+- heading: Presentations and workshops
+  groups:
+    - heading: Conference presentations
+      items:
+        - title: "Uncertain Futures, Shared Challenges: Protecting and Safeguarding Open Knowledge"
+          url: https://meta.wikimedia.org/wiki/GLAM_Wiki_2025/Program/Uncertain_Futures_Shared_Challenges
+          venue: GLAM Wiki 2025, Lisbon
+          date: October 30, 2025
+          note: Panel; presented "The State of the GLAMs (in the U.S.)" with Jamie Flood and JJ Dearborn.
+        - title: Keynote panel
+          url: https://wikiconference.org/wiki/2025/Program/Sunday
+          venue: WikiConference North America 2025, New York
+          date: October 19, 2025
+          note: Moderator, with Oscar Costero, Jamie Flood and Lane Rasberry.
+        - title: "State of the Stats: New Strategies for Metrics on Wikimedia Commons"
+          url: https://wikiconference.org/wiki/Submissions:2025/State_of_the_Stats:_New_Strategies_for_Metrics_on_Wikimedia_Commons
+          venue: WikiConference North America 2025, New York
+          date: October 18, 2025
+        - title: Opening remarks
+          url: https://wikiconference.org/wiki/2024/Schedule/Friday
+          venue: WikiConference North America 2024, Indianapolis
+          date: October 4, 2024
+          note: Lead local organizer.
+        - title: Image credits on Wikipedia
+          url: https://wikiconference.org/wiki/Submissions:2023/Image_credits_on_Wikipedia
+          venue: WikiConference North America 2023, Toronto
+          date: November 11, 2023
+        - title: How the Digital Public Library of America is putting American history at Wikipedians' fingertips
+          url: https://wikiconference.org/wiki/Submissions:2023/How_the_Digital_Public_Library_of_America_is_putting_American_history_at_Wikipedians'_fingertips
+          venue: WikiConference North America 2023, Toronto
+          date: November 10, 2023
+          note: With Joe Mabel.
+        - title: "View it! Tool: Utilizing Structured Data on Commons for Image Discovery"
+          url: https://wikiconference.org/wiki/Submissions:2023/View_it!_Tool:_Utilizing_Structured_Data_on_Commons_for_Image_Discovery
+          venue: WikiConference North America 2023, Toronto
+          date: November 10, 2023
+          note: With Kevin Payravi and Jamie Flood.
+        - title: "One Year In: Growing Capacity to Support GLAM Wiki in Indiana"
+          url: https://scholarworks.indianapolis.iu.edu/items/6f728314-3885-47e4-a4fd-ab640cad712f
+          venue: WikiConference North America 2023, Toronto
+          date: November 10, 2023
+          note: With Olivia MacIsaac, Jamie Flood and Jere Odell. Slides in IU Indianapolis ScholarWorks.
+        - title: "DPLA's Digital Asset Pipeline: How we uploaded 4 million images of cultural heritage to Commons (so far)"
+          url: https://meta.wikimedia.org/wiki/GLAM_Wiki_2023/Program/DPLA's_Digital_Asset_Pipeline:_How_we_uploaded_4_million_images_of_cultural_heritage_to_Commons_(so_far)
+          venue: GLAM Wiki 2023, Montevideo
+          date: November 2023
+        - title: "Wikimedia Indiana: A New User Group Rooted in Cultural Heritage"
+          url: https://wikiconference.org/wiki/Submissions:2022/Wikimedia_Indiana:_A_New_User_Group_Rooted_in_Cultural_Heritage
+          venue: WikiConference North America 2022 (online)
+          date: November 12, 2022
+          note: With Jere Odell and Jamie Flood.
+        - title: "View it! tool: utilizing Structured Data on Commons for image discovery"
+          url: https://wikiconference.org/wiki/Submissions:2022/View_it!_tool:_utilizing_Structured_Data_on_Commons_for_image_discovery
+          venue: WikiConference North America 2022 (online)
+          date: November 12, 2022
+          note: With Kevin Payravi and Jamie Flood.
+        - title: A National, Consortial Approach to Libraries in the US
+          url: https://meta.wikimedia.org/wiki/Wikimedia%2BLibraries/Program/Submission/A_National,_Consortial_Approach_to_Libraries_in_the_US
+          venue: Wikimedia+Libraries International Convention 2022 (online)
+          date: July 2022
+        - title: State of GLAM Wiki in 2021
+          url: https://commons.wikimedia.org/wiki/File:State_of_GLAM_Wiki_in_2021.webm
+          venue: Wikimania 2021 (online)
+          date: August 15, 2021
+          note: With Éder Porto. Video.
+        - title: "4 Million in 4 Weeks: A case study on bulk import of cultural heritage metadata on Wikidata"
+          url: https://wikiconference.org/wiki/Submissions:2019/4_Million_in_4_Weeks:_A_case_study_on_bulk_import_of_cultural_heritage_metadata_on_Wikidata
+          venue: WikiConference North America 2019, Boston
+          date: November 10, 2019
+        - title: "The View from the Top: How to Sell Management on GLAM-Wiki"
+          url: https://commons.wikimedia.org/wiki/File:GLAM_WIKI_2018_-_The_View_from_the_Top_-_How_to_Sell_Management_on_GLAM-Wiki_-_Pam_Wright,_Dominic_Byrd-McDevitt.webm
+          venue: GLAM Wiki 2018, Tel Aviv
+          date: November 4, 2018
+          note: With Pam Wright. Video.
+        - title: Beginner's Guide to Events for Wikipedians
+          url: https://wikiconference.org/wiki/Submissions:2018/Beginner's_Guide_to_Events_for_Wikipedians
+          venue: WikiConference North America 2018, Columbus
+          date: October 21, 2018
+        - title: How Wikimedia Communities Can Thrive by Fostering Co-Creative Networks
+          url: https://wikiconference.org/wiki/Submissions:2016/How_Wikimedia_Communities_Can_Thrive_by_Fostering_Co-Creative_Networks
+          venue: WikiConference North America 2016, San Diego
+          date: October 9, 2016
+        - title: Guide to editathons at cultural institutions
+          url: https://commons.wikimedia.org/wiki/File:Guide_to_editathons_at_cultural_institutions_-_Dina_Herbert_%26_Dominic_Byrd-McDevitt_5126.jpg
+          venue: WikiConference North America 2016, San Diego
+          date: October 8, 2016
+          note: With Dina Herbert.
+        - title: "Opening Up Culture and History: How Your Institution Can Overcome Roadblocks and Contribute to Wikipedia"
+          url: https://archives2016.sched.com/2016-08-04/list/descriptions/type/Education+Session
+          venue: ARCHIVES*RECORDS 2016 (Society of American Archivists), Atlanta
+          date: August 4, 2016
+        - title: "Why Wikipedia Works for Us: an Exploration of Innovation at the National Archives"
+          url: https://commons.wikimedia.org/wiki/File:Why_Wikipedia_Works_for_Us_-_an_Exploration_of_Innovation_at_the_National_Archives_at_WikiConference_USA_2015.webm
+          venue: WikiConference USA 2015, Washington, D.C.
+          date: October 9, 2015
+          note: Organized the panel and spoke on the National Archives catalog API and open data. Video.
+        - title: Report from the GLAM-Wiki US Consortium
+          url: https://wikiconference.org/wiki/Submissions:2015/Report_from_the_GLAM-Wiki_US_Consortium
+          venue: WikiConference USA 2015, Washington, D.C.
+          date: October 2015
+        - title: A Primer on Wikipedia Editathons
+          url: https://www.slideshare.net/DominicMcDevittParks/a-primer-on-wikipedia-editathons-mcn-2014
+          venue: Museum Computer Network (MCN) 2014, Dallas
+          date: November 2014
+          note: Slides.
+        - title: GLAM Boot Camp — A New Model for GLAM-Wiki Skills-Building for Wikimedians
+          url: https://commons.wikimedia.org/wiki/File:Dominic_McDevitt_Parks_-_GLAM_Boot_camp_-_Wikimania_2014.webm
+          venue: Wikimania 2014, London
+          date: August 8, 2014
+          note: With Lori Byrd Phillips. Video.
+        - title: Wikisource, from digitization to data
+          url: https://wikimania2014.wikimedia.org/wiki/Submissions/Panel:_Wikisource,_from_digitization_to_data
+          venue: Wikimania 2014, London
+          date: August 2014
+          note: Panelist.
+        - title: "Sharing is caring: the GLAM-Wiki US Consortium"
+          url: https://commons.wikimedia.org/wiki/File:WMCON_2014_Sharing_is_caring_GLAM_wiki_us_consortium_by_Lori_and_Dominic.pdf
+          venue: Wikimedia Conference 2014, Berlin
+          date: April 2014
+          note: With Lori Byrd Phillips. Slides.
+        - title: Partnerships between Wikipedia and the National Archives
+          url: https://trevorowens.org/2013/12/27/2013-year-in-review/
+          venue: Digital Cultural Heritage DC (DCHDC) meetup, Washington, D.C.
+          date: 2013
+        - title: "Wikimedia Tech Workshop: Bridging the Gap"
+          url: https://mcn.edu/wp-content/uploads/2020/02/MCN2012_Program-2012_v25_23OCT.pdf
+          venue: Museum Computer Network (MCN) 2012, Seattle
+          date: November 2012
+          note: Full-day workshop with Lori Byrd Phillips, Erik Moeller, Ryan Kaldari and others.
+        - title: Cultural Institutions and Wikipedia
+          url: https://commons.wikimedia.org/wiki/File:Cultural_Institutions_and_Wikipedia.pdf
+          venue: Library of Congress, Washington, D.C.
+          date: August 13, 2012
+        - title: "80,000 Volunteers Can't Be Wrong: The Case for Greater Collaboration with Wikipedia"
+          url: https://outreach.wikimedia.org/wiki/GLAM/Newsletter/August_2012/Contents/USA_report
+          venue: Society of American Archivists Annual Meeting, San Diego
+          date: August 10, 2012
+          note: Panel chaired by Karen Weiss, with Sara Snyder and Pamela Wright.
+        - title: GLAM professionals panel
+          url: https://wikimania2012.wikimedia.org/wiki/Submissions/GLAM_professionals_panel
+          venue: Wikimania 2012, Washington, D.C.
+          date: July 2012
+          note: Organizer.
+        - title: "Wikisource and the US National Archives: a case study"
+          url: https://wikimania2012.wikimedia.org/wiki/Submissions/Wikisource_and_the_US_National_Archives:_a_case_study
+          venue: Wikimania 2012, Washington, D.C.
+          date: July 2012
+        - title: "Marketplace of Ideas: Wikipedia for museums"
+          url: https://diff.wikimedia.org/2012/05/07/glam-wiki-aam/
+          venue: American Association of Museums Annual Meeting, Minneapolis
+          date: May 2012
+          note: Led the table with four other Wikipedians in Residence.
+        - title: WikiProject NARA on Wikisource (lightning talk)
+          url: https://commons.wikimedia.org/wiki/File:2011_GLAMcamp_Amsterdam_-_Lightning_Talk_by_Dominic_McDevitt-Parks.ogv
+          venue: GLAMcamp Amsterdam
+          date: December 2011
+          note: Video.
+        - title: NARA's work on Wikisource and Commons
+          url: https://commons.wikimedia.org/wiki/File:October_2011_NARA_backstage_pass_-_Dominic's_presentation.ogv
+          venue: Wikipedia Backstage Pass, National Archives, College Park
+          date: October 8, 2011
+          note: Video.
+    - heading: Workshops, trainings and webinars
+      items:
+        - title: Wikipedia for Librarians and Information Professionals
+          url: https://en.wikipedia.org/wiki/Wikipedia:Meetup/Indianapolis/Wikipedia_for_Librarians_and_Information_Professionals
+          venue: Indiana State Library, Indianapolis
+          date: May 20–21, 2026
+          note: Co-organizer and instructor.
+        - title: I Have Thousands of Items in Commons – What Do I Do Now?
+          url: https://pro.dp.la/events/workshops
+          venue: DPLA webinar
+          date: October 9, 2025
+          note: With Giovanna Fontenelle, Christine Fernsebner Eslao and Jamie Flood.
+        - title: "Combatting Information Bias in Chicago: A Wikipedia Editathon"
+          url: https://las.uic.edu/events/combatting-information-bias-in-chicago-a-wikipedia-editathon/
+          venue: University of Illinois Chicago
+          date: September 18, 2025
+          note: Co-led with Jamie Flood.
+        - title: Wikipedia and Wikidata for Libraries and Information Scientists
+          url: https://las.uic.edu/events/wikipedia-and-wikidata-for-libraries-and-information-scientists/
+          venue: University of Illinois Chicago
+          date: September 17, 2025
+          note: With Jamie Flood.
+        - title: Leveraging the Power of Wikimedia
+          url: https://pro.dp.la/events/past-webinars
+          venue: DPLA Open Board + Community Meeting
+          date: January 9, 2023
+        - title: "DPLA + Wikimedia: One Year In + Ten Million Views"
+          url: https://pro.dp.la/events/past-webinars
+          venue: DPLA webinar
+          date: March 18, 2021
+          note: With Leigh Jeremias and Effie Kapsalis.
+        - title: "From Black Women's Suffrage to Black Lives Matter: A Living Legacy"
+          url: https://pro.dp.la/events/past-webinars
+          venue: DPLA webinar with Charlotte Mecklenburg Library
+          date: October 29, 2020
+        - title: "DPLA Introduction to Wikimedia: Increased Discoverability & Use"
+          url: https://pro.dp.la/events/past-webinars
+          venue: DPLA webinar
+          date: April 21, 2020
+          note: With Sandra Fauconnier.
+        - title: Wikimedia Leadership Bootcamp
+          url: https://en.wikipedia.org/wiki/Wikipedia:Meetup/DC/Wikimedia_Leadership_Bootcamp_2018
+          venue: Wikimedia DC, Washington, D.C.
+          date: June 15–17, 2018
+          note: Moderated the libraries panel; spoke on the Wikipedians in Residence panel.
+        - title: Emerging Technologies Edit-a-thon
+          url: https://en.wikipedia.org/wiki/Wikipedia:Meetup/Cincinnati/NIOSH_2017
+          venue: National Institute for Occupational Safety and Health, Cincinnati
+          date: October 19, 2017
+          note: Spoke on local Wikimedia groups.
+        - title: GLAM Boot Camp 2016
+          url: https://en.wikipedia.org/wiki/Wikipedia:GLAM/Boot_Camp/2016
+          venue: National Archives, Washington, D.C.
+          date: June 14–16, 2016
+          note: Instructor.
+        - title: GLAM Boot Camp
+          url: https://en.wikipedia.org/wiki/Wikipedia:GLAM/Boot_Camp/2013
+          venue: National Archives, Washington, D.C.
+          date: April 2013
+          note: Co-organizer and instructor for the first GLAM Boot Camp.
+
 - heading: Interviews and podcasts
   groups:
     - items:
@@ -169,25 +404,61 @@
 - heading: Press coverage
   groups:
     - items:
+        - title: "Keeping Up With… IMLS Elimination: Impacts Beyond Grants"
+          url: https://www.ala.org/acrl/publications/keeping_up_with/imls
+          venue: Association of College and Research Libraries
+          date: January 2026
+          note: Jodi Allison-Bunnell.
         - title: DPLA's Dominic Byrd-McDevitt Explains the Role of the National Archives in the Federal Government
           url: https://newsbreaks.infotoday.com/Digest/DPLAs-Dominic-ByrdMcDevitt-Explains-the-Role-of-the-National-Archives-in-the-Federal-Government-167946.asp
           venue: Information Today NewsBreaks
           date: February 11, 2025
+        - title: Wikipedia conference comes to Indianapolis
+          url: https://www.wishtv.com/news/local-news/wikipedia-conference-comes-to-indianapolis/
+          venue: WISH-TV
+          date: October 5, 2024
         - title: DPLA to Expand Collaboration with Wikimedia Following Sloan Foundation Grant
           url: https://www.libraryjournal.com/story/dpla-to-expand-collaboration-with-wikimedia-following-sloan-foundation-grant
           venue: Library Journal
           date: January 19, 2023
           note: Matt Enis.
+        - title: What Are Galleries, Libraries, Archives, and Museums (GLAM) to the Wikimedia Community?
+          url: https://www.oclc.org/content/dam/research/publications/2018/Proffitt_LeavergingWikipedia.pdf
+          venue: "Leveraging Wikipedia: Connecting Communities of Knowledge, ed. Merrilee Proffitt (ALA Editions)"
+          date: 2018
+          note: Andrew Lih, pp. 13–14.
+        - title: Wikipedia
+          url: https://www.cbsnews.com/news/wikipedia-jimmy-wales-morley-safer-60-minutes/
+          venue: 60 Minutes, CBS News
+          date: April 5, 2015
+          note: Morley Safer.
         - title: National Archives holdings headed for Wikimedia Commons
           url: https://fedscoop.com/national-archives-plans-mass-upload-wikimedia-commons/
           venue: FedScoop
           date: January 10, 2015
           note: Billy Mitchell.
+        - title: US National Archives To Upload All Holdings To Wikimedia Commons
+          url: https://techcrunch.com/2014/06/30/us-national-archives-to-upload-all-holdings-to-wikimedia-commons/
+          venue: TechCrunch
+          date: June 30, 2014
+        - title: Feds Collaborate With Wikipedia Editors to Improve 'Wikipedia Entries Related to Government Publications'
+          url: https://www.washingtonexaminer.com/news/1300698/feds-collaborate-with-wikipedia-editors-to-improve-wikipedia-entries-related-to-government-publications/
+          venue: Washington Examiner
+          date: June 3, 2014
         - title: Warming Up to the Culture of Wikipedia
           url: https://www.nytimes.com/2014/03/20/arts/artsspecial/warming-up-to-the-culture-of-wikipedia.html
           venue: The New York Times
           date: March 19, 2014
           note: Noam Cohen.
+        - title: "Curating Science, Software and Strides in Digital Stewardship: A Personal 2013 Year in Review"
+          url: https://trevorowens.org/2013/12/27/2013-year-in-review/
+          venue: Trevor Owens
+          date: December 27, 2013
+        - title: On Consortium-Based Wikipedian in Residence Positions
+          url: https://diff.wikimedia.org/2013/11/15/wikipedian-in-residence/
+          venue: Wikimedia Blog
+          date: November 15, 2013
+          note: Dorothy Howard.
         - title: Breaking New Ground Again
           url: https://aotus.blogs.archives.gov/2013/09/19/breaking-new-ground-again/
           venue: AOTUS, the blog of the Archivist of the United States
@@ -207,6 +478,15 @@
           venue: GlobalPost
           date: July 16, 2012
           note: Faine Greenwood.
+        - title: GLAM-Wiki at the American Association of Museums
+          url: https://diff.wikimedia.org/2012/05/07/glam-wiki-aam/
+          venue: Wikimedia Blog
+          date: May 7, 2012
+          note: Lori Phillips.
+        - title: "Wikipedians in Residence: Two Years of Open Culture"
+          url: https://blog.okfn.org/2012/01/27/wikipedian-in-residence-two-years-of-open-culture/
+          venue: Open Knowledge Foundation Blog
+          date: January 27, 2012
         - title: NARA, Wikipedia, and the Day of Infamy
           url: https://prologue.blogs.archives.gov/2012/01/20/nara-wikipedia-and-the-day-of-infamy/
           venue: Pieces of History, a blog of the National Archives
@@ -216,6 +496,10 @@
           venue: The Baltimore Sun
           date: July 13, 2011
           note: Julie Baughman.
+        - title: Location! Location! Location!
+          url: https://siarchives.si.edu/blog/location-location-location
+          venue: Smithsonian Institution Archives blog
+          date: July 6, 2011
         - title: How Wikipedians-in-Residence Are Opening Up Cultural Institutions
           url: https://www.theatlantic.com/technology/archive/2011/06/how-wikipedians-in-residence-are-opening-up-cultural-institutions/240204/
           venue: The Atlantic
@@ -234,6 +518,10 @@
         - title: National Archives announces First "Wikipedian in Residence"
           url: https://www.archives.gov/press/press-releases/2011-41
           venue: National Archives press release
+          date: June 1, 2011
+        - title: National Archives Names First Wikipedian In Residence
+          url: https://www.huffpost.com/entry/wikipedia-archives_n_869806
+          venue: The Huffington Post
           date: June 1, 2011
         - title: "News and notes: Wikipedian in Residence at US National Archives"
           url: https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2011-05-02/News_and_notes
