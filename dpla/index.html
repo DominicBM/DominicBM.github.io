@@ -9,8 +9,8 @@ description: "Watch files uploaded to Wikimedia Commons by DPLA bot as they arri
     <a href="https://commons.wikimedia.org/wiki/User:DPLA_bot">DPLA bot</a>, as they happen, from the
     <a href="https://wikitech.wikimedia.org/wiki/Event_Platform/EventStreams_HTTP_Service">Wikimedia EventStreams</a> feed.</p>
   <div id="status" class="alert alert-info" role="status">Connecting&hellip;</div>
-  <p class="text-body-secondary">Uploads seen: <span id="count">0</span> &middot; showing the latest <span id="limit">50</span></p>
-  <ol id="feed" class="list-group list-group-numbered" reversed></ol>
+  <p class="text-body-secondary">New uploads since you opened this page: <span id="count">0</span> &middot; showing the latest <span id="limit">50</span></p>
+  <ul id="feed" class="list-group"></ul>
 </main>
 
 <script>
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function () {
   var source = new EventSource('https://stream.wikimedia.org/v2/stream/recentchange');
 
   source.onopen = function () {
-    setStatus('success', 'Connected. Waiting for uploads by DPLA bot…');
+    setStatus('success', 'Connected. Listening for new uploads by DPLA bot…');
   };
 
   source.onerror = function () {
@@ -39,19 +39,36 @@ document.addEventListener('DOMContentLoaded', function () {
     setStatus('warning', 'Connection lost. Reconnecting…');
   };
 
+  function addUpload(title, timestamp, atTop) {
+    var link = document.createElement('a');
+    link.className = 'text-break';
+    link.href = 'https://commons.wikimedia.org/wiki/' + encodeURIComponent(title.replace(/ /g, '_'));
+    link.textContent = title.replace(/^File:/, '');
+    var when = document.createElement('small');
+    when.className = 'text-body-secondary d-block';
+    when.textContent = new Date(timestamp).toLocaleString();
+    var item = document.createElement('li');
+    item.className = 'list-group-item';
+    item.append(link, when);
+    if (atTop) { feed.prepend(item); } else { feed.append(item); }
+    while (feed.children.length > MAX_ITEMS) { feed.lastElementChild.remove(); }
+  }
+
+  // Show the most recent uploads first, so the page isn't empty while the bot is idle.
+  fetch('https://commons.wikimedia.org/w/api.php?action=query&list=logevents&letype=upload' +
+        '&leuser=DPLA_bot&lelimit=10&format=json&origin=*')
+    .then(function (response) { return response.json(); })
+    .then(function (data) {
+      data.query.logevents.forEach(function (event) {
+        addUpload(event.title, event.timestamp, false);
+      });
+    })
+    .catch(function () { /* the live stream still works without the history */ });
+
   source.onmessage = function (msg) {
     var change = JSON.parse(msg.data);
     if (change.wiki !== 'commonswiki' || change.log_type !== 'upload' || change.user !== 'DPLA bot') { return; }
-
-    var link = document.createElement('a');
-    link.href = 'https://commons.wikimedia.org/wiki/' + encodeURIComponent(change.title.replace(/ /g, '_'));
-    link.textContent = change.title.replace(/^File:/, '');
-    var item = document.createElement('li');
-    item.className = 'list-group-item';
-    item.appendChild(link);
-    feed.prepend(item);
-    while (feed.children.length > MAX_ITEMS) { feed.lastElementChild.remove(); }
-
+    addUpload(change.title, change.timestamp * 1000, true);
     count += 1;
     countNode.textContent = count;
   };
